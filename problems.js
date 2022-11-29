@@ -140,3 +140,5 @@ const problems = [
 		level: 'Easy',
 	},
 ];
+
+module.exports = { problems };
