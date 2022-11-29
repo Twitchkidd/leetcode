@@ -3,6 +3,13 @@ import { createGlobalStyle } from 'styled-components';
 const Global = createGlobalStyle`
   :root {
     --eigengrau: #14141d;
+    /* https://superuser.com/a/1206781 */
+    --background: #282828;
+    --amber: #FFB000;
+    --lt-amber: #FFCC00;
+    --green-1: #33FF00;
+    --green-2: #00FF33;
+    --green-3: #00FF66;
 
     --sans-serif: 'Anybody', sans-serif;
     --serif: 'Updock', serif;
